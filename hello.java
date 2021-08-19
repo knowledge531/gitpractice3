@@ -1,3 +1,3 @@
 this is first file
 yes
-windows auto
+window auto
